@@ -19,6 +19,12 @@ This Python script uses the Flash Rank library to perform search and retrieval r
     - Click the "ReRank" button to process the query and context through the chosen Flash Rank model.
     - Results will display below, showcasing the re-ranked output based on the selected model size.
 
+ReRanking (example):
+Input:
+![image](https://github.com/sohomx/flashrank/assets/84140043/00d044f4-75a1-4596-bb25-53162a6a0af2)
+Output:
+![image](https://github.com/sohomx/flashrank/assets/84140043/2f733e41-0313-410b-899f-431926b9a6c1)
+
 ## Code Functionality
 
 This script employs the Flash Rank library to perform re-ranking:
